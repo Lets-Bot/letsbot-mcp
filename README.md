@@ -1,5 +1,7 @@
 # LetsBot MCP server — WhatsApp Business for Claude, ChatGPT, Cursor and any MCP client
 
+[![mcptry](https://mcptry.com/badge/net.letsbot/mcp)](https://mcptry.com/servers/net.letsbot/mcp)
+
 LetsBot's remote MCP server connects AI assistants to a WhatsApp Business account on
 [LetsBot](https://letsbot.net): read and answer customer conversations, send approved templates,
 run campaigns and chatbots, manage contacts and get reports.
