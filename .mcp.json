@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "letsbot": {
+      "type": "http",
+      "url": "https://letsbot.net/mcp"
+    }
+  }
+}
